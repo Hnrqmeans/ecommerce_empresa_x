@@ -44,3 +44,11 @@ __Melhoria1__, _melhoria 2_
 Contribuidor principal: https://www.github.com/Hnrqmeans
 
 [![Link do contribuidor](https://static.vecteezy.com/system/resources/thumbnails/009/384/389/small_2x/click-here-button-clipart-design-illustration-free-png.png)](https://www.github.com/Hnrqmeans)
+
+## Codigo da função soma
+
+---javascript
+function(soma)[a,b][
+    return a+b;
+]
+---
