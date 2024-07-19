@@ -42,3 +42,5 @@ __Melhoria1__, _melhoria 2_
 [https://www.google.com](https://www.google.com)
 
 Contribuidor principal: https://www.github.com/Hnrqmeans
+
+[![Link do contribuidor](https://img.freepik.com/psd-premium/botao-vermelho-isolado-em-fundo-transparente-ou-branco-png_888962-535.jpg?w=740)](https://www.github.com/Hnrqmeans)
