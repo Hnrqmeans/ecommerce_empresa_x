@@ -47,8 +47,8 @@ Contribuidor principal: https://www.github.com/Hnrqmeans
 
 ## Codigo da função soma
 
----javascript
+```javascript
 function(soma)[a,b][
     return a+b;
 ]
----
+```
