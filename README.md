@@ -38,4 +38,7 @@ __Melhoria1__, _melhoria 2_
 ## Links interessantes:
 
 [Google](https://www.google.com)
+
 [https://www.google.com](https://www.google.com)
+
+Contribuidor principal: https://www.github.com/Hnrqmeans
